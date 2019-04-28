@@ -9,3 +9,8 @@ We have used a recursive function for getting the latitudes and longitudes from 
 This application is built on XCode 9.4, Swift 4 and iOS 11.
 
 
+
+<img src="https://github.com/desamsetti/desamsetti.github.io/blob/master/img/Apple/NIUCampusWalkApplicationGif.gif?raw=true"
+     alt="Northern Illinois University Campus Walk iOS Application"
+     style="float: left; margin-right: 10px;" />
+
