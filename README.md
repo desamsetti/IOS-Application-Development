@@ -4,9 +4,9 @@ We have used the Maps Framework along with CoreMotion and other elements like Po
 This can be used as a Personal assistant or a Campus Guide for students at Northern Illinois University to know more about the University.
 There are two routes, a Short route which contains 10 campus buildings and a Long route which contains all 28 campus buildings of NIU. Both the routes let the user make changes to the list of buildings they want to visit. Also, selecting a building changes the View to a Detailed view of the building which describes some details about the building. Each detail view also contains a play, pause and stop button to let the user listen to the facts.
 This contains 10 buildings for the short route and 28 buildings for the long route.
-We have used a recursive function for getting the latitudes and longitudes from an API and then calling the function gives the directions. This creates polylines between different buildings. Several UI elements like TableViews, Switches, buttons, ImageViews etc. have been used.
+We have used a recursive function(which can also be done iteratively) for getting the latitudes and longitudes from an API and then calling the function gives the directions. This creates polylines between different buildings. Several UI elements like TableViews, Switches, buttons, ImageViews etc. have been used.
 
-This application is built on XCode 9.4, Swift 4 and iOS 11.
+This application is built on XCode 9.4, Swift 4 and iOS 11. 
 
 
 
