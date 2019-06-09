@@ -6,7 +6,7 @@ There are two routes, a Short route which contains 10 campus buildings and a Lon
 This contains 10 buildings for the short route and 28 buildings for the long route.
 We have used a recursive function(Can use Dynamic Programming here to reduce the time complexity, also Greedy Algorithm) for getting the latitudes and longitudes from an API and then calling the function gives the directions. This creates polylines between different buildings. Several UI elements like TableViews, Switches, buttons, MapView, ImageViews etc. have been used in this project.
 
-This application is built on XCode 9.4, Swift 4 and iOS 11.
+This app is built on XCode 9.4, Swift 4 and iOS 11.
 
 
 <img src="https://github.com/desamsetti/desamsetti.github.io/blob/master/img/Apple/NIUCampusWalkApplicationGif.gif?raw=true"
